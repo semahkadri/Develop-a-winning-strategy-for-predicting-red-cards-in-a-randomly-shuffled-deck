@@ -1,9 +1,6 @@
-Would you like to win a bit of money? Lets wager on a card game for minor stakes. In front of
-you is a shuffled deck of cards. All 52 cards lie face-down. Half the cards are red and half are
-black. I will proceed to flip the cards over, one by one. If the last card I flip over is red, you’ll
-win a dollar. Otherwise, you will lose a dollar.
-Here’s the twist; you can ask me to halt the game at any time. Once you say "halt", I will flip
-over the next card and end the game. That next card will serve as the final card. You will win a
-dollar if it’s red.
-We can play the game as many times as you like. The deck will be reshuffled every time. After
-each round, we’ll exchange money. What is your best approach to winning this game?
+
+## 🎲 Welcome to the Card Game Showdown! 💰
+
+Are you ready for some high-stakes fun and a chance to win big? Let's dive into the thrilling world of card games. 🃏 In front of you is a deck of 52 cards, half red and half black, all face-down. The goal is simple: predict the last card to win a dollar! But here's the twist: you can halt the game whenever you like by saying "halt," and the next card will be your final chance to strike gold. 🚀
+
+Now, what's your winning strategy? 🤔 You can play as many rounds as you want, and after each round, we'll reshuffle the deck. Will you take risks or play it safe? It's all about making the right move at the right time! Good luck! 🍀💸
